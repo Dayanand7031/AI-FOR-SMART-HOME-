@@ -120,8 +120,9 @@ Refer to `training_log.csv` for the latest metrics across:
 - **MAPE** (Mean Absolute Percentage Error) - 25%
 - **R² Score** ---0.59
 
-Compared to Earlier
-Metric	Old	New
-RMSE	5.096	4.928 ✅
-MAE	4.039	3.930 ✅
-R²	0.551	0.581 ✅
+### Compared to Earlier
+
+## Metric	Old	New
+####  RMSE	5.096	4.928 ✅
+####  MAE	4.039	3.930 ✅
+#### R²	0.551	0.581 ✅
