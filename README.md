@@ -115,7 +115,13 @@ print(response.json())
 
 ##  Model Performance
 Refer to `training_log.csv` for the latest metrics across:
-- **RMSE** (Root Mean Squared Error)
-- **MAE** (Mean Absolute Error)
-- **MAPE** (Mean Absolute Percentage Error)
-- **R² Score**
+- **RMSE** (Root Mean Squared Error) -- 4.928
+- **MAE** (Mean Absolute Error) ---3.93
+- **MAPE** (Mean Absolute Percentage Error) - 25%
+- **R² Score** ---0.59
+
+Compared to Earlier
+Metric	Old	New
+RMSE	5.096	4.928 ✅
+MAE	4.039	3.930 ✅
+R²	0.551	0.581 ✅
